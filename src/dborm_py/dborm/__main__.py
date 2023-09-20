@@ -21,9 +21,9 @@ engine = db.create_engine("postgresql+psycopg2://postgres:pass@127.0.0.1/postgre
 
 with Session(engine) as session:
     session.add_all([
-        StockItem(name='Toothbrush', vendor='Limo', quantity=1497),
-        StockItem(name='Comb', vendor='Takoon', quantity=210),
-        StockItem(name='Towel', vendor='Beana', quantity=362),
+        StockItem(name="Toothbrush", vendor="Limo", quantity=1497),
+        StockItem(name="Comb", vendor="Takoon", quantity=210),
+        StockItem(name="Towel", vendor="Beana", quantity=362),
         ])
 
     session.commit()    

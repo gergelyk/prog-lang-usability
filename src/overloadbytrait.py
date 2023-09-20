@@ -18,7 +18,7 @@ def get_color(x: Any):
     if isinstance(x, Colorful):
         return x.get_color()
     else:
-        return 'transparent'
+        return "transparent"
 
 # types known in advance
 print(f"{get_color(Apple())=}")

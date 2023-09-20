@@ -12,4 +12,4 @@ class Sky:
 def get_color(x: Any):
     if hasattr(x, 'get_color'):
         return x.get_color()
-    return 'transparent'
+    return "transparent"

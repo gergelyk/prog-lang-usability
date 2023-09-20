@@ -41,6 +41,5 @@ Cleanup:
 - add type hints if missing
 - flags - summary
 - puts -> p!
-- '' -> ""
 - String -> str
 - rewrite objectives
