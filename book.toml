@@ -6,6 +6,7 @@ multilingual = false
 src = "src"
 
 [output.html]
+default-theme = "rust"
 additional-js = ["theme/highlight.js"]
 git-repository-url = "https://github.com/gergelyk/prog-lang-usability"
 edit-url-template = "https://github.com/gergelyk/prog-lang-usability/edit/main/doc/{path}"
