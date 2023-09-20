@@ -1,0 +1,11 @@
+[book]
+title = "Usability of Programming Languages"
+authors = ["Grzegorz Krasoń"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+additional-js = ["theme/highlight.js"]
+git-repository-url = "https://github.com/gergelyk/prog-lang-usability"
+edit-url-template = "https://github.com/gergelyk/prog-lang-usability/edit/main/doc/{path}"

@@ -1,0 +1,19 @@
+name: orm
+version: 0.1.0
+
+targets:
+  dborm:
+    main: src/dborm.cr
+    
+  micrate:
+    main: src/micrate.cr
+    
+dependencies:
+  granite:
+    github: amberframework/granite
+
+  pg:
+    github: will/crystal-pg
+
+  micrate:
+    github: juanedi/micrate
