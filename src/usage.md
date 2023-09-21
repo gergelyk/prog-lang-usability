@@ -1,4 +1,4 @@
-# Code Snippets
+# Usage Instructions
 
 Snippets presented in this book are available in the [repo](https://github.com/gergelyk/prog-lang-usability). Most of them are single files that can be directly run or compiled. The goal is to use standard libraries unless it is missing some essential functionality. In remaining cases we use third-party libraries and prioritize those that are the most popular.
 

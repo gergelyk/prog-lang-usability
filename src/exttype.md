@@ -1,4 +1,4 @@
-# Extending Built-in Type
+# Extending Existing Types
 
 **Objective**: Add methods or attributes to a built-in type.
 
@@ -7,7 +7,7 @@
 Extending built-in class is not possible. Inharitance helps to workaround the problem.
 
 ```python
-{{#include extbuiltin.py}}
+{{#include exttype.py}}
 ```
 
 ### Rust
@@ -15,11 +15,11 @@ Extending built-in class is not possible. Inharitance helps to workaround the pr
 Extending built-in types is possible, but how to do it for all integer types at once?
 
 ```rust
-{{#include extbuiltin.rs}}
+{{#include exttype.rs}}
 ```
 
 ### Crystal
 
 ```crystal
-{{#include extbuiltin.cr}}
+{{#include exttype.cr}}
 ```

@@ -12,7 +12,7 @@ https://whoisryosuke.com/blog/2022/parsing-json-with-rust/
 alias T = Hash(String, T | Int32)
 x : T = {"asd" => 12} # error
 ----
-rust:
+rust:g
 https://github.com/dtolnay/anyhow
 https://github.com/dtolnay/thiserror
 ----
@@ -36,7 +36,6 @@ foo(flags=.READ+.WRITE)
 
 ----
 Cleanup:
-- links to packages/crates
 - old mypy -> new mypy
 - add type hints if missing
 - flags - summary
