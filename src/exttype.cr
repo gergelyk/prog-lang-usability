@@ -1,4 +1,4 @@
-struct Number
+struct Int
   def dots
     "." * self
   end

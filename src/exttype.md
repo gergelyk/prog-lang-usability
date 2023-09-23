@@ -1,6 +1,6 @@
 # Extending Existing Types
 
-**Objective**: Add methods or attributes to a built-in type.
+**Objective**: Add methods to integer type.
 
 ### Python
 
@@ -19,6 +19,8 @@ Extending built-in types is possible, but how to do it for all integer types at 
 ```
 
 ### Crystal
+
+Inheritance is available, but not easy in case of this example. Instead of that, method can be added to the existing type:
 
 ```crystal
 {{#include exttype.cr}}
