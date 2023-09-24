@@ -35,7 +35,8 @@
 - [System Integration]()
   - [(De)Serialization](./serdes.md)
   - [System Commands](./cmd.md)
-
+  - [Calling libc](./calllibc.md)
+  
 - [Utilities]()
   - [Debug Print](./dbgprint.md)
   - [Regular Expressions](./regex.md)

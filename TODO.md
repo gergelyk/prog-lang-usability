@@ -1,8 +1,4 @@
 inspection - print class attribs
-byref
-call general c lib
-call dedicated c lib
-call syscall
 linked list...rust, measure leak
 otel
 
