@@ -1,10 +1,15 @@
-processes
-defer
-
+rust: processes
 inspection - print class attribs
 byref
+call general c lib
+call dedicated c lib
+call syscall
 linked list...rust, measure leak
 otel
+
+----
+operators - rust: provide impl for each integer & floating type
+mixin - rust: macro for copying methods
 
 ----
 json: untyped data (x.as_a), json to dict:
@@ -16,16 +21,3 @@ x : T = {"asd" => 12} # error
 Prometeus+Grafana
 https://gitlab.com/ezrast/crometheus
 https://prometheus.io/assets/grafana_prometheus.png
-
-----
-operators - rust: provide impl for each integer & floating type
-mixin - rust: macro for copying methods
-
-----
-chaining methods - rust:
-cute::
-c![x for 1..10]
-
-----
-flags as args
-foo(flags=.READ+.WRITE)

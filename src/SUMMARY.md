@@ -12,7 +12,7 @@
 - [Leaving Functions]()
   - [Handling Errors](./errhandle.md)
   - [Returning Optionals](./nilprop.md)
-  - [Managed Context](./context.md)
+  - [RAII](./context.md)
 
 - [Polymorphism]()
   - [Dynamic Dispatch](./dyndisp.md)

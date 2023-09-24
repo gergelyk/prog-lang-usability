@@ -1,4 +1,4 @@
-# Managed Context
+# RAII
 
 **Objective**: Allocate resources and call given code in context of those resources. Finally clean-up resources despite of the fact if the code signalled an error or not.
 
@@ -22,7 +22,7 @@ Alternatively:
 {{#include context.rs}}
 ```
 
-Note: doesn't meet objectives in case of panic.
+Note: doesn't meet objectives in case of a panic. However many applications are made sure that they never panic.
 
 ### Crystal
 

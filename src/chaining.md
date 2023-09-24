@@ -26,6 +26,12 @@ Alternatively:
 {{#include chaining2.rs}}
 ```
 
+Alternatively crate [`cute`](https://docs.rs/cute/latest/cute/) can be used to mimic comprehension-like style:
+
+```rust
+{{#include chaining3_rs/src/main.rs}}
+```
+
 ### Crystal
 
 ```crystal
