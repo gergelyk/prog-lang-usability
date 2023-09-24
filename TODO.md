@@ -29,10 +29,3 @@ c![x for 1..10]
 ----
 flags as args
 foo(flags=.READ+.WRITE)
-
-----
-Cleanup:
-- old mypy -> new mypy
-- add type hints if missing
-- puts -> p!
-- String -> str

@@ -4,7 +4,7 @@ Snippets presented in this book are available in the [repo](https://github.com/g
 
 ## Python
 
-Code is prepared mostly for CPython ~3.8. Most of the snippets contain mypy-style type hints.
+Code is prepared mostly for CPython ~3.8. Most of the snippets contain mypy-style type hints. However, in some cases they are skipped for clarity.
 
 File-based examples can be run as: `python3 example.py`
 
@@ -27,6 +27,8 @@ Code is prepared mostly for edition 2021, `rustc` ~1.73.
 File-based examples can be compiled & run as: `rustc example.rs; ./example`
 
 Project-based examples can be run as: `cd example_rs; cargo run`
+
+For clarity, some of the examples employ unsafe constructs like `unwrap`. More sophisticated error handling may be desired in the final applications. Also some of the examples use `String` type despite of its impact on performance.
 
 ## Crystal
 
