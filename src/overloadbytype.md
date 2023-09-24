@@ -1,4 +1,4 @@
-# Dispatching by Type
+# Dispatching by Types of the Arguments
 
 **Objective**: Define a fucntion that:
 

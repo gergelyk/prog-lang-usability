@@ -1,4 +1,4 @@
-# Dispatching by Quantity
+# Dispatching by Quantity of the Arguments
 
 **Objective**: Define a fucntion that:
 
@@ -19,6 +19,8 @@ Here is where builder pattern comes in:
 ```rust
 {{#include overloadbynum.rs}}
 ```
+
+Presence of `surname` is checked in compile time.
 
 ### Crystal
 
