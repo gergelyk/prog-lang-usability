@@ -22,7 +22,7 @@ def get_color(x)
   return "transparent"
 end
 
-# types known in advance
+# types known in compile time
 p! get_color Apple.new
 p! get_color Sky.new
 p! get_color 123

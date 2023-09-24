@@ -41,7 +41,7 @@ fn get_color(x: impl Colorful) -> &'static str {
 
 
 fn main() {
-    // types known in advance
+    // types known in compile time
     dbg!( get_color(Apple{}) );
     dbg!( get_color(Sky{}) );
     dbg!( get_color(123) );

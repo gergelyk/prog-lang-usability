@@ -25,7 +25,7 @@ def flip(a)
   a
 end
 
-# types known in advance
+# types known in compile time
 p! flip false
 p! flip 3_i32
 p! flip 33_i64

@@ -63,7 +63,7 @@ fn flip<T: Flip>(a: T) -> T {
 }
 
 fn main() {
-    // types known in advance
+    // types known in compile time
     dbg!( flip(true));
     dbg!( flip(3 as i32) );
     dbg!( flip(33 as i64) );
