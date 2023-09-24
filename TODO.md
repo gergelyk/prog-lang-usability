@@ -1,4 +1,3 @@
-inspection - print class attribs
 linked list...rust, measure leak
 otel
 

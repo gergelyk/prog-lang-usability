@@ -1,4 +1,4 @@
-## Calling libc
+# Calling libc
 
 **Objective**: Call getpid from libc. Print PID returned by the function.
 
