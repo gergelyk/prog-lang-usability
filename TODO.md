@@ -1,3 +1,5 @@
+crystal: call libc, not syscall
+syscall
 linked list...rust, measure leak
 otel
 
