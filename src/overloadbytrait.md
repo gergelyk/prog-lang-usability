@@ -1,4 +1,4 @@
-# Dispatching by Interfaces of the Arguments
+# Distinguish Interfaces of the Arguments
 
 **Objective**: Define a fucntion that:
 

@@ -34,7 +34,5 @@ foo(flags=.READ+.WRITE)
 Cleanup:
 - old mypy -> new mypy
 - add type hints if missing
-- flags - summary
 - puts -> p!
 - String -> str
-- rewrite objectives

@@ -1,4 +1,4 @@
-# Dispatching by Types of the Arguments
+# Distinguish Types of the Arguments
 
 **Objective**: Define a fucntion that:
 

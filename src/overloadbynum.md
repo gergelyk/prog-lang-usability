@@ -1,4 +1,4 @@
-# Dispatching by Quantity of the Arguments
+# Distinguish Quantity of the Arguments
 
 **Objective**: Define a fucntion that:
 

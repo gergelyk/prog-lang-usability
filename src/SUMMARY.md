@@ -37,4 +37,5 @@
   - [System Commands](./cmd.md)
 
 - [Utilities]()
+  - [Debug Print](./dbgprint.md)
   - [Regular Expressions](./regex.md)
