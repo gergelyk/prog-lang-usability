@@ -1,4 +1,4 @@
-# Overloading Function Based on Interfaces of the Arguments
+# Dispatching by Interface
 
 **Objective**: Define a fucntion that:
 

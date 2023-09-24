@@ -1,4 +1,4 @@
-# Overloading Function Based on Types of the Arguments
+# Dispatching by Type
 
 **Objective**: Define a fucntion that:
 

@@ -1,4 +1,4 @@
-# Overloading Function Based on Number of Arguments
+# Dispatching by Quantity
 
 **Objective**: Define a fucntion that:
 

@@ -17,9 +17,9 @@
 - [Polymorphism]()
   - [Dynamic Dispatch](./dyndisp.md)
   - [Static Dispatch](./statdisp.md)
-  - [Overloading Based on Types](./overloadbytype.md)
-  - [Overloading Based on Interfaces](./overloadbytrait.md)
-  - [Overloading Based on Quantity](./overloadbynum.md)
+  - [Distinguish Types](./overloadbytype.md)
+  - [Distinguish Interfaces](./overloadbytrait.md)
+  - [Distinguish Quantity](./overloadbynum.md)
   - [Operators](./operators.md)
 
 - [Types]()
