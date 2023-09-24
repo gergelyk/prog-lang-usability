@@ -2,11 +2,6 @@
 
 - [Introduction](./introduction.md)
     - [Usage Instructions](./usage.md)
-
-- [Types]()
-  - [Type Inference](./inference.md)
-  - [Extending Types](./exttype.md)
-  - [Mixins](./mixin.md)
     
 - [Calling Functions]()
   - [Features of Arguments](./argfeat.md)
@@ -27,6 +22,11 @@
   - [Overloading Based on Quantity](./overloadbynum.md)
   - [Operators](./operators.md)
 
+- [Types]()
+  - [Type Inference](./inference.md)
+  - [Extending Types](./exttype.md)
+  - [Mixins](./mixin.md)
+  
 - [Concurrency]()
   - [Multithreading](./thre.md)
   - [Multiprocessing](./procs.md)

@@ -1,6 +1,6 @@
 # Dynamic Dispatch
 
-**Objective**: Demonstrate dynamic dispatching.
+**Objective**: Create container accepting items of different types. Categorize items in runtime. Dispatch methods dynamically.
 
 ### Python
 

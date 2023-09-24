@@ -1,6 +1,6 @@
 # Extending Existing Types
 
-**Objective**: Add methods to integer type.
+**Objective**: Add methods to the integer type.
 
 ### Python
 
