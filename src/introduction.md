@@ -1,7 +1,5 @@
 # Introduction
 
-!!! THIS IS WORK IN PROGRESS !!!
-
 ## What This Book Is
 
 This work is a collection of examples that demonstrate similar concepts, idioms, design patterns in diffrent programming languages. The goal is to get the feeling of how handy these languages are for developers.
