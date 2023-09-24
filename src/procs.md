@@ -10,8 +10,8 @@
 
 ### Rust
 
-Work in progress...
+Standard library of Rust 1.73 doesn't seem to have good support for multiprocessing. With some effort this can be implemented using platform specific features. For instance fork & waitid syscalls in Unix.
 
 ### Crystal
 
-Crystal 1.8.2 doesn't support multiprocessing. With some effort this can be implemented using fork & waitid syscalls.
+Standard library of Crystal 1.8.2 doesn't seem to have good support for multiprocessing. With some effort this can be implemented using platform specific features. For instance fork & waitid syscalls in Unix.

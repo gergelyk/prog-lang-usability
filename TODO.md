@@ -1,4 +1,3 @@
-rust: processes
 inspection - print class attribs
 byref
 call general c lib
