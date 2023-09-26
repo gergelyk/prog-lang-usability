@@ -1,7 +1,8 @@
 # Summary
 
 - [Introduction](./introduction.md)
-    - [Usage Instructions](./usage.md)
+    - [Languages](./languages.md)
+    - [Snippets](./snippets.md)
     
 - [Calling Functions]()
   - [Features of Arguments](./argfeat.md)
