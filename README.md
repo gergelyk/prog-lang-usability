@@ -13,7 +13,7 @@ mdbook serve -o
 
 - Generate custom [highlight.js](https://highlightjs.org/download)
 - Copy `highlight.min.js` to `theme/highlight.js`
-- Make sure to add corresponding section in `src/snippets.md`
+- Make sure to add corresponding section in `src/languages.md`, `src/snippets.md`
 
 ## Contributions
 
