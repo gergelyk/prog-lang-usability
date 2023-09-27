@@ -22,7 +22,7 @@ Following programming languages have been looked at in this book:
 
 **Crystal**
 
-- Compiled[^1]
+- Compiled
 - Statically typed
 - GC-based memory managemnet
 - Error handling based on exceptions

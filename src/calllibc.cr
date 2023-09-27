@@ -1,8 +1,7 @@
-require "syscall"
-
-module OurSysCalls
-  Syscall.def_syscall getpid, Int32
+lib Libc
+    alias PidT = Int32
+    fun getpid : PidT
 end
 
-pid = OurSysCalls.getpid
+pid = Libc.getpid
 puts(pid)
