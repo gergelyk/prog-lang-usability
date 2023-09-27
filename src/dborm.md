@@ -11,6 +11,8 @@ Migration tool: [alembic](https://alembic.sqlalchemy.org/).
 {{#include dborm_py/dborm/__main__.py}}
 ```
 
+Restore commented lines to Initialize database.
+
 ### Rust
 
 ORM in use: [diesel](https://diesel.rs/). Diesel comes with built-in migration tool.
