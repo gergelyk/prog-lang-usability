@@ -1,7 +1,6 @@
 # DB in a container:
 # docker run --name productsdb -e POSTGRES_PASSWORD=pass -p 5432:5432 -d postgres:15.3
 
-
 import sqlalchemy as db
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy.orm import MappedAsDataclass, Session
