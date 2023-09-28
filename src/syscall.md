@@ -15,7 +15,7 @@ There is not dedicated binding for `syscall` in standard library. However `sysca
 Example below uses [syscalls](https://docs.rs/syscalls/latest/syscalls/) crate.
 
 ```rust
-{{#include syscall.rs}}
+{{#include syscall_rs/src/main.rs}}
 ```
 
 ### Crystal
