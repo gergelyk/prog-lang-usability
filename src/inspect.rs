@@ -1,3 +1,5 @@
+// inspired by: https://stackoverflow.com/a/56389650
+
 macro_rules! generate_struct {
     ($name:ident {$($field_name:ident : $field_type:ty),+}) => {
         struct $name { $($field_name: $field_type),+ }

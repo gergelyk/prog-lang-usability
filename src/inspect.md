@@ -24,8 +24,6 @@ Note that there are more corner cases to be considered in Python. For instance h
 {{#include inspect.rs}}
 ```
 
-Solution is inspired by [this](https://stackoverflow.com/a/56389650) comment.
-
 ### Crystal
 
 ```crystal

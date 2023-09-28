@@ -36,6 +36,7 @@
 - [System Integration]()
   - [System Commands](./cmd.md)
   - [Calling libc](./calllibc.md)
+  - [Making syscall](./syscall.md)
   - [(De)Serialization](./serdes.md)
   - [Web Frameworks](./httpsrv.md)
   - [ORM](./dborm.md)
