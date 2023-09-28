@@ -24,7 +24,7 @@ Alternatively:
 {{#include errhandle2.rs}}
 ```
 
-Note: there are crates like `thiserror`, `anyhow` which make error handling in Rust much easier.
+Note that there are crates in the wild which provide more sophisticated way of handling errors. See [thiserror](./thiserror.md) and [anyhow](./anyhow.md).
 
 ### Crystal
 

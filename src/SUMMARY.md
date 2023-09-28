@@ -45,3 +45,7 @@
   - [Debug Print](./dbgprint.md)
   - [Inspection](./inspect.md)
   - [Regular Expressions](./regex.md)
+
+- [Attachments]()
+  - [Rust - thiserror](./thiserror.md)
+  - [Rust - anyhow](./anyhow.md)
