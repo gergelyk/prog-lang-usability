@@ -1,5 +1,4 @@
-crystal: call libc, not syscall
-syscall
+asm
 linked list...rust, measure leak
 otel
 
@@ -14,6 +13,4 @@ alias T = Hash(String, T | Int32)
 x : T = {"asd" => 12} # error
 
 ----
-Prometeus+Grafana
-https://gitlab.com/ezrast/crometheus
-https://prometheus.io/assets/grafana_prometheus.png
+Prometeus
