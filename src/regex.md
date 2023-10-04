@@ -18,6 +18,6 @@ There is no regex in stdlib. Crate [regex](https://docs.rs/regex/latest/regex/) 
 
 ### Crystal
 
-```rust
+```crystal
 {{#include regex.cr}}
 ```
