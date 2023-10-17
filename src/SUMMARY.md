@@ -46,7 +46,7 @@
   
 - [Utilities]()
   - [Debug Print](./dbgprint.md)
-  - [Inspection](./inspect.md)
+  - [Inspection](./inspection.md)
   - [Regular Expressions](./regex.md)
 
 - [Attachments]()
