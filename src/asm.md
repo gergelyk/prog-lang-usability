@@ -24,7 +24,7 @@ Embedding assembly makes little sense in an interpreted language like Python whe
 
 ### Rust
 
-AT&T syntax applies.
+Intel syntax applies.
 
 ```rust
 {{#include asm.rs}}
@@ -32,7 +32,7 @@ AT&T syntax applies.
 
 ### Crystal
 
-Intel syntax applies.
+AT&T syntax applies.
 
 ```crystal
 {{#include asm.cr}}
