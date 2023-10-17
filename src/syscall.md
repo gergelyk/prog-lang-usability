@@ -1,10 +1,10 @@
 # Making syscall
 
-**Objective**: Call getpid syscall. Print PID returned by the function.
+**Objective**: Invoke `getpid` syscall. Print returned PID.
 
 ### Python
 
-There is not dedicated binding for `syscall` in standard library. However `syscall` from `libc` can be easily created:
+There is no dedicated binding for `syscall` in standard library. However `syscall` from `libc` can be utilized:
 
 ```python
 {{#include syscall.py}}

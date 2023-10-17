@@ -33,10 +33,13 @@
   - [Multiprocessing](./procs.md)
   - [Asynchronicity](./async.md)
 
-- [System Integration]()
+- [Platform Integration]()
   - [System Commands](./cmd.md)
   - [Calling libc](./calllibc.md)
   - [Making syscall](./syscall.md)
+  - [Embedding Assembly](./asm.md)
+  
+- [Web Integration]()
   - [(De)Serialization](./serdes.md)
   - [Web Frameworks](./httpsrv.md)
   - [ORM](./dborm.md)
