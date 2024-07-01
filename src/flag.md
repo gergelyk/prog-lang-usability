@@ -48,7 +48,7 @@ Using bool variable may not be a good practive. There are keyword arguments, so 
 {{#include flag.cr}}
 ```
 
-There are no keyword-only arguments so there is no way to enforce readability. Suffix like `_is_on` may feel verbose but provides clarity.
+Keyword-only arguments are used to enforce readability. Suffix like `_is_on` may feel verbose but provides clarity.
 
 **Variant 2:**
 
@@ -56,17 +56,17 @@ There are no keyword-only arguments so there is no way to enforce readability. S
 {{#include flag2.cr}}
 ```
 
-Suffix `_is_on` not needed and no need of importing `Something`. But still no way to enforce readability of the function call.
+Keyword-only arguments are used to enforce readability. Suffix `_is_on` not needed and no need of importing `Something`.
+
+Enum can be reused for other arguments.
 
 **Variant 3:**
 
-No need of importing `Something`. Function call with positional arguments is enforced to be readabile.
+No need of importing `Something`. Readability is enforced despite of the fact that function is called with positional arguments.
 
 ```crystal
 {{#include flag3.cr}}
 ```
-
-The same looks too verbose when there was multiple arguments and we would like to call function with keyword arguments.
 
 Implementation of the function and of the enum looks too verbose.
 

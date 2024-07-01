@@ -1,4 +1,4 @@
-def foo(something_is_on : Bool)
+def foo(*, something_is_on : Bool)
   if something_is_on
     puts "Something is ON"
   else

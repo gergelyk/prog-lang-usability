@@ -12,10 +12,5 @@ def foo(something : Something)
   end
 end
 
-# calling with positional agrs
 foo(:SomethingOn)
 foo(:SomethingOff)
-
-# calling with keyword agrs
-foo(something: :SomethingOn)
-foo(something: :SomethingOff)

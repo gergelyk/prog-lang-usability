@@ -13,6 +13,7 @@
 Additionally Python also supports:
 - Variadic positional args.
 - Variadic keyword args.
+- Keyword-only args.
 
 
 ### Rust
@@ -37,4 +38,5 @@ Notes:
 Additionally Crystal supports:
 - Variadic positional args.
 - Variadic keyword args.
+- Keyword-only args.
 - Internal/external arg names.
