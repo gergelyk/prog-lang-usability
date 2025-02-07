@@ -20,7 +20,7 @@ Rust supports threads that can be run simultaneously. Crate [flume](https://crat
 {{#include thre_rs/src/main.rs}}
 ```
 
-In context of concurrency in Rust it is hard not to mention [tokio](https://tokio.rs/). This crate provides hybrid solution utilizing threads for executing asynchronous functions. Simple example can be found [here](./tokio.md).
+In context of multithreading in Rust it is hard not to mention [tokio](https://tokio.rs/). This crate provides hybrid solution utilizing threads for executing asynchronous functions. Simple example can be found [here](./tokio.md).
 
 ### Crystal
 
