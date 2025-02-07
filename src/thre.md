@@ -14,11 +14,13 @@ In practice [`ThreadPoolExecutor`](https://docs.python.org/dev/library/concurren
 
 ### Rust
 
-Rust supports threads that can be run in parallel. Crate [flume](https://crates.io/crates/flume) has been used as a replacement of `std::sync::mpsc`. Flume provides multiple-producers-multiple-consumers channels. Additionally crate [rand](https://crates.io/crates/rand) provides random numbers for demonstrational purposes.
+Rust supports threads that can be run simultaneously. Crate [flume](https://crates.io/crates/flume) has been used as a replacement of `std::sync::mpsc`. Flume provides multiple-producers-multiple-consumers channels. Additionally crate [rand](https://crates.io/crates/rand) provides random numbers for demonstrational purposes.
 
 ```rust
 {{#include thre_rs/src/main.rs}}
 ```
+
+In context of concurrency in Rust it is hard not to mention [tokio](https://tokio.rs/). This crate provides hybrid solution utilizing threads for executing asynchronous functions. Simple example can be found [here](./tokio.md).
 
 ### Crystal
 
