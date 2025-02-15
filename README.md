@@ -5,7 +5,7 @@ This book can be viewed at: https://gergelyk.github.io/prog-lang-usability/
 ## Rendering
 
 ```sh
-cargo install mdbook
+cargo install mdbook@0.4.32
 mdbook serve -o
 ```
 
